@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/kjhhorse/react-study/static/css/main.8ab6f918.chunk.css",
-    "main.js": "/kjhhorse/react-study/static/js/main.b854cce1.chunk.js",
-    "main.js.map": "/kjhhorse/react-study/static/js/main.b854cce1.chunk.js.map",
-    "runtime-main.js": "/kjhhorse/react-study/static/js/runtime-main.7190cbbd.js",
-    "runtime-main.js.map": "/kjhhorse/react-study/static/js/runtime-main.7190cbbd.js.map",
-    "static/js/2.2fe87da1.chunk.js": "/kjhhorse/react-study/static/js/2.2fe87da1.chunk.js",
-    "static/js/2.2fe87da1.chunk.js.map": "/kjhhorse/react-study/static/js/2.2fe87da1.chunk.js.map",
-    "index.html": "/kjhhorse/react-study/index.html",
-    "precache-manifest.ee4848c26ca19e8e93e5e71b2c1c0f66.js": "/kjhhorse/react-study/precache-manifest.ee4848c26ca19e8e93e5e71b2c1c0f66.js",
-    "service-worker.js": "/kjhhorse/react-study/service-worker.js",
-    "static/css/main.8ab6f918.chunk.css.map": "/kjhhorse/react-study/static/css/main.8ab6f918.chunk.css.map",
-    "static/js/2.2fe87da1.chunk.js.LICENSE.txt": "/kjhhorse/react-study/static/js/2.2fe87da1.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/kjhhorse/react-study/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/react-study/static/css/main.8ab6f918.chunk.css",
+    "main.js": "/react-study/static/js/main.6804ebc5.chunk.js",
+    "main.js.map": "/react-study/static/js/main.6804ebc5.chunk.js.map",
+    "runtime-main.js": "/react-study/static/js/runtime-main.db9cbe13.js",
+    "runtime-main.js.map": "/react-study/static/js/runtime-main.db9cbe13.js.map",
+    "static/js/2.2fe87da1.chunk.js": "/react-study/static/js/2.2fe87da1.chunk.js",
+    "static/js/2.2fe87da1.chunk.js.map": "/react-study/static/js/2.2fe87da1.chunk.js.map",
+    "index.html": "/react-study/index.html",
+    "precache-manifest.66b1e163a135d2ff47a69bc42fc483ab.js": "/react-study/precache-manifest.66b1e163a135d2ff47a69bc42fc483ab.js",
+    "service-worker.js": "/react-study/service-worker.js",
+    "static/css/main.8ab6f918.chunk.css.map": "/react-study/static/css/main.8ab6f918.chunk.css.map",
+    "static/js/2.2fe87da1.chunk.js.LICENSE.txt": "/react-study/static/js/2.2fe87da1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-study/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7190cbbd.js",
+    "static/js/runtime-main.db9cbe13.js",
     "static/js/2.2fe87da1.chunk.js",
     "static/css/main.8ab6f918.chunk.css",
-    "static/js/main.b854cce1.chunk.js"
+    "static/js/main.6804ebc5.chunk.js"
   ]
 }
